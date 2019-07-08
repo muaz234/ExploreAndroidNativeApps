@@ -19,7 +19,6 @@
         android:layout_marginBottom="32dp"
         android:background="@android:color/holo_blue_light"
         android:contentDescription="@android:string/copyUrl"
-        android:onClick="computeCalc()"
         android:text="Snap!"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
